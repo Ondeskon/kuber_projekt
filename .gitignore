@@ -1,0 +1,47 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folder
+venv/
+env/
+.env/
+.venv/
+
+# Flask instance folder (for deployment-specific configuration)
+instance/
+
+# Environment variables file
+.env
+
+
+# idk
+
+flaskapp.log
+flaskapp.db
+
+# Pytest cache
+.pytest_cache/
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# MacOS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+#
